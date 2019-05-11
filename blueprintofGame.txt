@@ -1,0 +1,22 @@
+Basketball game where there are two hoops and its one guy that shoots.
+
+*two hoops that have colliders and physics
+
+*slider that shows how hard your player is going to shoot the ball
+
+*many animations such as dribbling the basketball when in hand and shooting and idling
+
+*every shot you make depending on how far you are it will measure the px and divide it by 125 to get the number of coins.
+
+*you can add accesories with the coins
+
+*there is no competition you just shoot baskets for FUN!
+
+*when you make a basket it makes a cheering sound 
+
+*when you miss and the basketball hits the ground its teleports to your hand in 2 seconds.
+
+*the ground has to have physics so if you miss it starts bouncing then when it stops it teleports to your hand.
+
+
+ 

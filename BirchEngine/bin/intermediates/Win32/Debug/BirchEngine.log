@@ -1,0 +1,17 @@
+﻿  AssetManager.cpp
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Game.cpp
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\dev\birchengine - textures\birchengine\src\ecs\tilecomponent.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Map.cpp
+  Collision.cpp
+  BirchEngine.vcxproj -> C:\Dev\BirchEngine - Textures\bin\Win32\Debug\BirchEngine.exe
